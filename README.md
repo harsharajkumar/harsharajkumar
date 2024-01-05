@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsha 
-- 👀 I’m interested in COMPETITIVE CODING AND BLOCKCHAIN
+- 👀 I’m interested in ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
 - 🌱 I’m currently learning  COMPUTER SCIENCE ENGINEERING 
-- 💞️ I’m looking to collaborate on SOFTWARE CODING AND BLOCKCHAIN 
+- 💞️ I’m looking to collaborate on ANY SOFTWARE RELATED PROJECTS 
 - 📫 How to reach me 9743457350
 
 <!---
